@@ -25,7 +25,7 @@ Every technical decision carries assumptions. When those assumptions become inva
 ### From Source
 
 ```bash
-git clone https://github.com/nidhalelbkir/ddt.git
+git clone https://github.com/nidhalelkebir/ddt.git
 cd ddt
 go build -o ddt main.go
 ```
