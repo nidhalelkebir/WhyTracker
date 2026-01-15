@@ -1,0 +1,7 @@
+# .ddt directory - Decision Debt Tracker storage
+decisions.db
+*.db-shm
+*.db-wal
+
+# Backup files (optional - you may want to commit these)
+# backups/*.yaml
